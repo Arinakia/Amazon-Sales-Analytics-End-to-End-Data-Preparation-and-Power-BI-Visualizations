@@ -1,0 +1,2 @@
+# Amazon-Sales-Analytics-End-to-End-Data-Preparation-and-Power-BI-Visualizations
+Comprehensive analytics project examining Amazon sales data with a full pipeline: data cleaning and feature engineering using Python, advanced Power BI visualizations to explore product categories, pricing impact, discounts, and profit metrics, along with simple predictive modeling to analyze relationships and trends in the dataset.
